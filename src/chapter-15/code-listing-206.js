@@ -7,4 +7,5 @@ var handler = {
 
 var p = new Proxy(target, handler);
 p.world === 'Hello, world!';
+console.log(p);
 	
