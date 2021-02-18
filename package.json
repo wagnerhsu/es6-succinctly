@@ -5,6 +5,7 @@
   "main": "server.js",
   "author": "Matt Duffield",
   "license": "MIT",
+  "type": "module",
   "devDependencies": {
     "babel": "^6.3.26",
     "babel-cli": "^6.3.17",
